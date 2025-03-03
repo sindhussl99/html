@@ -1,0 +1,29 @@
+.padd{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.text_size{
+    font-size: 18px;
+}
+
+.bold{
+    font-weight:900;
+}
+
+.social-icons a {
+    color: white;
+    margin: 0 10px;
+    font-size: 1.5em;
+}
+
+.footer {
+    background-color: #343a40; /* Dark background color */
+    color: white;
+}
